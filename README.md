@@ -101,3 +101,30 @@ All processing occurs locally without any server or API dependency.
 - Language toggle system
 
 ---
+
+# Machine Learning Pipeline
+
+## Dataset
+
+- Source: PlantVillage (Tomato subset)
+- Total Classes: 10 (9 diseases + 1 healthy)
+- Approximate Dataset Size: 18,000+ images
+- Balanced class distribution
+
+## Data Split
+
+- Training: 80%
+- Validation: 20%
+
+## Image Preprocessing
+
+- Resize: 128 × 128
+- Pixel normalization: image / 255.0
+- Data augmentation:
+  - Rotation
+  - Width shift
+  - Height shift
+  - Horizontal flip
+  - Zoom
+
+---
