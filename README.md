@@ -293,3 +293,13 @@ This transforms the application from a classifier into a decision-support platfo
 - Satellite-based crop health monitoring
 
 ---
+# Scalability Vision
+
+AgriScan is designed for scalable agricultural deployment including:
+
+- Nationwide integration
+- Collaboration with agricultural extension services
+- Integration with AgriTech startups
+- Rural digital empowerment initiatives
+
+---
