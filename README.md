@@ -202,4 +202,11 @@ For each detected disease, the system provides:
 This transforms the application from a classifier into a decision-support platform.
 
 ---
+# Bilingual Intelligence Engine
 
+- English and Hindi language support
+- JSON-driven content mapping
+- Dynamic UI rendering based on selection
+- Designed specifically for rural accessibility
+
+---
