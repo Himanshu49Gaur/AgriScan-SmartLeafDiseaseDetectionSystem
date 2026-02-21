@@ -40,3 +40,19 @@ Many academic and Kaggle-style machine learning projects focus solely on classif
 AgriScan bridges this gap by combining AI-based detection with structured agricultural intelligence in an offline-capable system.
 
 ---
+
+# Proposed Solution
+
+AgriScan implements a complete edge-AI diagnostic pipeline:
+
+1. User captures or uploads a leaf image  
+2. Image is resized and normalized locally  
+3. ONNX model performs inference on-device  
+4. Predicted class and confidence score generated  
+5. Disease metadata retrieved via bilingual JSON mapping  
+6. Results rendered with severity indication and advisory guidance  
+
+All processing occurs locally without any server or API dependency.
+
+---
+
