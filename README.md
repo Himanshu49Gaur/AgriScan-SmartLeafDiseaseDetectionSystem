@@ -186,3 +186,20 @@ Inference is executed locally within the application without external API calls.
 - Instant diagnostic feedback
 
 ---
+
+## Knowledge-Rich Advisory Output
+
+For each detected disease, the system provides:
+
+- Scientific name
+- Disease history
+- Symptoms
+- Causes
+- Treatment recommendations
+- Preventive measures
+- Economic impact analysis
+
+This transforms the application from a classifier into a decision-support platform.
+
+---
+
