@@ -281,3 +281,15 @@ This transforms the application from a classifier into a decision-support platfo
 5. Build APK for Android deployment  
 
 ---
+
+# Future Scope
+
+- Expansion to multi-crop disease detection
+- Weather-based predictive risk alerts
+- Fertilizer and pesticide optimization engine
+- AI-based conversational agricultural assistant
+- Market price integration
+- Government agricultural data integration
+- Satellite-based crop health monitoring
+
+---
