@@ -1,18 +1,8 @@
-# AgriScan: Smart Leaf Disease Detection System
+# AgriScan – AI-Powered Bilingual Plant Disease Detection System
 
-**AgriScan: Smart Leaf Disease Detection System** is a project created for farmer welfare. Designed to resolve the issue of plant diseases, it uses leaf-based disease detection.
+AgriScan is an edge-based agricultural intelligence system designed to detect plant diseases from leaf images and provide actionable, structured insights in both English and Hindi.
 
-The proposed mobile application will be a tool featuring an intuitive UI with features dedicated towards:
-* Educating farmers about how to prevent crop wastage.
-* Ensuring a healthier and more bountiful yield.
+Unlike conventional plant disease classifiers that output only a predicted label, AgriScan functions as a knowledge-enriched decision support system built for real-world agricultural deployment.
 
 ---
 
-## Datasets to be used
-
-### Plant Disease Dataset
-* **Source**: [Kaggle](https://www.kaggle.com/datasets/ashishmotwani/tomato)
-* **Description**: The dataset contains over 20,000 images of tomato leaves with 10 diseases and 1 healthy class. Images are collected from both lab scenes and in-the-wild scenes.
-* **Goal**: The objective is to develop a lightweight model that can predict tomato leaf disease and be deployed offline on a mobile app.
-
----
