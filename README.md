@@ -239,3 +239,12 @@ This transforms the application from a classifier into a decision-support platfo
 - Scalable crop expansion architecture
 
 ---
+# Target Users
+
+- Small-scale farmers
+- Agricultural startups
+- Government agricultural extension services
+- Field inspection officers
+
+---
+
