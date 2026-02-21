@@ -132,3 +132,21 @@ All processing occurs locally without any server or API dependency.
   - Zoom
 
 ---
+
+## Model Architecture
+
+- Custom Convolutional Neural Network (CNN)
+- Stacked Conv2D + MaxPooling layers
+- Fully connected dense layers
+- Softmax output layer for multi-class classification
+
+### Training Configuration
+
+- Framework: TensorFlow + Keras
+- Optimizer: Adam
+- Loss Function: Categorical Crossentropy
+- Epochs: 20
+- Training Environment: GPU-enabled environment
+
+---
+
