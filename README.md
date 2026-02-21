@@ -60,40 +60,14 @@ All processing occurs locally without any server or API dependency.
 
 ## High-Level Workflow
 
-
-+-----------------------+
-| Camera / Image Upload|
-+-----------------------+
-|
-v
-+-----------------------+
-| Image Preprocessing |
-| (Resize 128x128, |
-| Normalization) |
-+-----------------------+
-|
-v
-+-----------------------+
-| ONNX Model Inference |
-| (Local Device) |
-+-----------------------+
-|
-v
-+-----------------------+
-| Class Prediction + |
-| Confidence Score |
-+-----------------------+
-|
-v
-+-----------------------+
-| JSON Knowledge Engine |
-| (EN / HI Mapping) |
-+-----------------------+
-|
-v
-+-----------------------+
-| Bilingual UI Rendering|
-+-----------------------+
+| Step | Component                     | Description                                                                 |
+|------|--------------------------------|-----------------------------------------------------------------------------|
+| 1    | Camera / Image Upload         | User captures a leaf image using device camera or uploads from gallery.   |
+| 2    | Image Preprocessing           | Image resized to 128×128 and normalized before inference.                  |
+| 3    | ONNX Model Inference          | Optimized ONNX model performs local prediction on the device.              |
+| 4    | Class Prediction + Confidence | Model outputs predicted disease class along with confidence score.         |
+| 5    | JSON Knowledge Engine         | Disease metadata retrieved from bilingual (English/Hindi) JSON mapping.    |
+| 6    | Bilingual UI Rendering        | Final results displayed with severity, advisory, and language selection.   |
 
 
 ---
