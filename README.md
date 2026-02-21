@@ -325,6 +325,21 @@ AgriScan is designed for scalable agricultural deployment including:
 
 ---
 
+# Developers
+
+- Name: Himanshu Gaur 
+- Role: Developer 
+- Contact: https://www.linkedin.com/in/himanshu-gaur-305006282/
+
+---
+
+# Contributors
+
+- Name: Abhinav Mehra 
+- Contribution Area: Developer 
+- Contact:
+
+---
 
 
 ---
