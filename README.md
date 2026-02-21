@@ -248,3 +248,24 @@ This transforms the application from a classifier into a decision-support platfo
 
 ---
 
+# Repository Structure
+
+
+| Directory / File | Description |
+|------------------|-------------|
+| `Agriscan/` | Root directory of the project |
+| `model/` | Contains trained and deployment-ready models |
+| ├── `model.h5` | Original trained TensorFlow/Keras model |
+| ├── `model.onnx` | Converted ONNX model for optimized local inference |
+| `app/` | Application source code (UI + integration layer) |
+| ├── `src/` | Core application logic and entry points |
+| ├── `components/` | Reusable UI components |
+| ├── `assets/` | Static assets such as images, icons, styles |
+| `knowledge_base/` | Structured disease information storage |
+| ├── `diseases_en.json` | English disease metadata mapping |
+| ├── `diseases_hi.json` | Hindi disease metadata mapping |
+| `notebook/` | Model training and experimentation environment |
+| ├── `training_notebook.ipynb` | Complete ML training pipeline notebook |
+| `apk/` | Android build output |
+| ├── `Agriscan.apk` | Installable Android application file |
+| `README.md` | Project documentation |
