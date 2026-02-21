@@ -160,3 +160,18 @@ All processing occurs locally without any server or API dependency.
 - Inference Time: Near real-time (sub-second on device)
 
 ---
+
+# Edge Deployment Strategy
+
+The trained `.h5` model is converted to ONNX to enable:
+
+- Cross-platform compatibility
+- Optimized local inference
+- Low latency prediction
+- Complete offline operation
+- Data privacy preservation
+
+Inference is executed locally within the application without external API calls.
+
+---
+
