@@ -71,3 +71,33 @@ All processing occurs locally without any server or API dependency.
 
 
 ---
+
+## Architecture Components
+
+### 1. Mobile Application Layer
+- TypeScript
+- JavaScript
+- CSS
+- APK-based deployment
+- Camera integration
+- Image upload functionality
+
+### 2. Machine Learning Layer
+- Custom CNN model (TensorFlow/Keras)
+- Model saved as `.h5`
+- Converted to ONNX format
+- Local inference execution
+
+### 3. Knowledge Engine
+- Structured JSON-based disease database
+- English and Hindi content mapping
+- Dynamic rendering based on language selection
+
+### 4. UI/UX Layer
+- Confidence score display
+- Severity classification (e.g., Moderate, Severe)
+- Disease explanation sections
+- Profile and scan statistics
+- Language toggle system
+
+---
