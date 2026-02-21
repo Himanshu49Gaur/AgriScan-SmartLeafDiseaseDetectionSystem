@@ -25,3 +25,18 @@ The system integrates:
 - A mobile-first APK application built with TypeScript, JavaScript, and CSS
 
 ---
+
+# Problem Statement
+
+Crop diseases significantly impact agricultural productivity, particularly in regions where:
+
+- Farmers lack immediate access to agronomists
+- Scientific information is not readily accessible in local languages
+- Internet connectivity is unreliable
+- Most available tools are either cloud-dependent or English-only
+
+Many academic and Kaggle-style machine learning projects focus solely on classification accuracy without addressing real-world deployment, accessibility, or advisory depth.
+
+AgriScan bridges this gap by combining AI-based detection with structured agricultural intelligence in an offline-capable system.
+
+---
