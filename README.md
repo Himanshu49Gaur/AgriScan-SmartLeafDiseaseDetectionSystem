@@ -269,3 +269,15 @@ This transforms the application from a classifier into a decision-support platfo
 | `apk/` | Android build output |
 | ├── `Agriscan.apk` | Installable Android application file |
 | `README.md` | Project documentation |
+
+---
+
+# Installation Guide
+
+1. Clone the repository  
+2. Install required dependencies  
+3. Ensure the ONNX model file is available  
+4. Run the application locally  
+5. Build APK for Android deployment  
+
+---
