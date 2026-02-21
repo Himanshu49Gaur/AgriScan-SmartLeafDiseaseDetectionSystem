@@ -1,4 +1,4 @@
-# AgriScan – AI-Powered Bilingual Plant Disease Detection System
+# AgriScan : AI-Powered Bilingual Plant Disease Detection System
 
 AgriScan is an edge-based agricultural intelligence system designed to detect plant diseases from leaf images and provide actionable, structured insights in both English and Hindi.
 
@@ -150,3 +150,13 @@ All processing occurs locally without any server or API dependency.
 
 ---
 
+# Performance Metrics
+
+- Validation Accuracy: ~95%
+- Precision: High across majority of classes
+- Recall: Strong detection across disease categories
+- F1-Score: Balanced and consistent
+- Confusion Matrix: Minimal inter-class overlap
+- Inference Time: Near real-time (sub-second on device)
+
+---
