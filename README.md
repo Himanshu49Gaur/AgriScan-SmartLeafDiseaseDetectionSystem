@@ -210,3 +210,11 @@ This transforms the application from a classifier into a decision-support platfo
 - Designed specifically for rural accessibility
 
 ---
+# User Module
+
+- Profile dashboard
+- Scan statistics tracking
+- Healthy vs. issue breakdown
+- Scan history logging
+
+---
