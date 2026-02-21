@@ -110,6 +110,10 @@ All processing occurs locally without any server or API dependency.
 - Total Classes: 10 (9 diseases + 1 healthy)
 - Approximate Dataset Size: 18,000+ images
 - Balanced class distribution
+- **Source**: [Kaggle](https://www.kaggle.com/datasets/ashishmotwani/tomato)
+- **Description**: The dataset contains over 20,000 images of tomato leaves with 10 diseases and 1 healthy class. Images are collected from both lab scenes and in-the-wild scenes.
+- **Goal**: The objective is to develop a lightweight model that can predict tomato leaf disease and be deployed offline on a mobile app.
+
 
 ## Data Split
 
