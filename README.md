@@ -56,3 +56,44 @@ All processing occurs locally without any server or API dependency.
 
 ---
 
+# System Architecture
+
+## High-Level Workflow
+
+
++-----------------------+
+| Camera / Image Upload|
++-----------------------+
+|
+v
++-----------------------+
+| Image Preprocessing |
+| (Resize 128x128, |
+| Normalization) |
++-----------------------+
+|
+v
++-----------------------+
+| ONNX Model Inference |
+| (Local Device) |
++-----------------------+
+|
+v
++-----------------------+
+| Class Prediction + |
+| Confidence Score |
++-----------------------+
+|
+v
++-----------------------+
+| JSON Knowledge Engine |
+| (EN / HI Mapping) |
++-----------------------+
+|
+v
++-----------------------+
+| Bilingual UI Rendering|
++-----------------------+
+
+
+---
