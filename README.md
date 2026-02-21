@@ -303,3 +303,28 @@ AgriScan is designed for scalable agricultural deployment including:
 - Rural digital empowerment initiatives
 
 ---
+
+# Application Screenshots
+
+![WhatsApp Image 2026-02-13 at 11 53 01 AM](https://github.com/user-attachments/assets/f8dd660a-0221-442f-a2cb-310e60910e32)
+![WhatsApp Image 2026-02-13 at 11 52 02 AM](https://github.com/user-attachments/assets/4f91d3c6-9621-4c2f-9794-0d0fdc9d69f8)
+![WhatsApp Image 2026-02-13 at 11 51 33 AM](https://github.com/user-attachments/assets/13eb982a-88e9-450d-a909-28e3164063eb)
+![WhatsApp Image 2026-02-13 at 11 51 03 AM](https://github.com/user-attachments/assets/250b8f8c-2730-4b31-b136-d6e4d5fd2ad4)
+![WhatsApp Image 2026-02-13 at 11 50 03 AM](https://github.com/user-attachments/assets/c19219d3-4db1-4403-a91a-e49b23714a7a)
+![WhatsApp Image 2026-02-13 at 11 49 54 AM](https://github.com/user-attachments/assets/0d0cf24a-b539-4436-9d70-a081b8e24824)
+![WhatsApp Image 2026-02-13 at 11 49 54 AM (1)](https://github.com/user-attachments/assets/78169082-4fe5-4dc3-836e-1a548f98a54e)
+![WhatsApp Image 2026-02-13 at 11 49 53 AM](https://github.com/user-attachments/assets/9ba9aa1c-9290-440e-a41f-179297a4857e)
+![WhatsApp Image 2026-02-13 at 6 01 33 PM](https://github.com/user-attachments/assets/c6514307-bd40-4d13-96f6-7045c035ad2a)
+
+
+- Home Screen  
+- Scan Result Screen  
+- Disease Detail Page (Hindi)  
+- Profile Dashboard  
+- Statistics Overview  
+
+---
+
+
+
+---
