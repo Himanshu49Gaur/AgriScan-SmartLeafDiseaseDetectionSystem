@@ -218,3 +218,24 @@ This transforms the application from a classifier into a decision-support platfo
 - Scan history logging
 
 ---
+# Differentiation
+
+## Compared to Typical Kaggle Projects
+
+| Generic ML Demo | AgriScan |
+|-----------------|----------|
+| Label prediction only | Structured agricultural advisory |
+| Notebook-based demo | Full mobile APK application |
+| Cloud inference | Local ONNX inference |
+| English-only | Bilingual support |
+| Research prototype | Deployment-ready system |
+
+## Compared to Generic Plant Apps
+
+- Offline functionality
+- Knowledge-enriched advisory output
+- Economic impact explanation
+- Multi-stakeholder design
+- Scalable crop expansion architecture
+
+---
