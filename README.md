@@ -175,3 +175,14 @@ Inference is executed locally within the application without external API calls.
 
 ---
 
+# Application Features
+
+## Core Functionalities
+
+- Camera-based leaf scanning
+- Image upload option
+- Confidence percentage display
+- Severity level indicator
+- Instant diagnostic feedback
+
+---
